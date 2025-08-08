@@ -1,2 +1,2 @@
 # git_setup_repo
-This is a my first git setup repo. 
+This is my first git setup repo. 
